@@ -12,6 +12,10 @@ return {
 		},
 	},
 	{
+		-- using nerd fonts
+		"ryanoasis/vim-devicons"
+	},
+	{
 		-- Detect tabstop and shiftwidth automatically
 		"tpope/vim-sleuth",
 	},
